@@ -114,12 +114,11 @@ $applications = @(
     # Browsers
     "Mozilla.Firefox"
     "Google.Chrome"
-    "VivaldiTechnologies.Vivaldi"
+    "Vivaldi.Vivaldi"
     
     # Productivity
-    "Microsoft.Office"  # Office suite (requires Microsoft account)
-    "Notepad++.Notepad++"
     "Microsoft.VisualStudioCode"
+    "GitHub.GitHubDesktop"
     
     # Media
     "VideoLAN.VLC"
@@ -136,7 +135,6 @@ $applications = @(
     "Python.Python.3.13"
     "OpenJS.NodeJS"
     "CharlesMilette.TranslucentTB"
-
      
     # Gaming (optional)
     "Valve.Steam"
